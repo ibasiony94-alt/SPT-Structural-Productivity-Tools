@@ -1,1 +1,19 @@
-
+SPT-Structural-Productivity-Tools
+│
+├── src
+│   ├── SPT_ASTEEL.lsp
+│   ├── SPT_UTILS.lsp
+│   ├── SPT_PARSE.lsp
+│   ├── SPT_TABLE.lsp
+│   └── SPT_EXPORT.lsp
+│
+├── docs
+│
+├── samples
+│
+├── output
+│
+├── README.md
+├── CHANGELOG.md
+├── LICENSE
+└── .gitignore
