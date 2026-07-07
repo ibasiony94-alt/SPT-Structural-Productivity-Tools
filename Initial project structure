@@ -1,11 +1,11 @@
-SPT-Structural-Productivity-Tools
+IB-Structural-Productivity-Tools
 │
 ├── src
-│   ├── SPT_ASTEEL.lsp
-│   ├── SPT_UTILS.lsp
-│   ├── SPT_PARSE.lsp
-│   ├── SPT_TABLE.lsp
-│   └── SPT_EXPORT.lsp
+│   ├── IB_ASTEEL.lsp
+│   ├── IB_UTILS.lsp
+│   ├── IB_PARSE.lsp
+│   ├── IB_TABLE.lsp
+│   └── IB_EXPORT.lsp
 │
 ├── docs
 │
